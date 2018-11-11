@@ -1,1 +1,2 @@
-Reopsitori Viguera_Samuel que el copiarem a github
+Repositori Viguera_Samuel que el copiarem a github
+Afegeixo linea desde el repositori local
